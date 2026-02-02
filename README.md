@@ -4,11 +4,11 @@ A collection of helpful guides and resources.
 
 ## Available Guides
 
-### 🐾 [Barato Pet Feasts (Bisaya Pet Guide)](./bisaya-pet-guide/bisaya_pet_guide.html)
+### 🐾 [Barato Pet Feasts (Bisaya Pet Guide)](/bisaya-pet-guide/bisaya_pet_guide.html)
 A Cebuano/Bisaya noob-friendly guide to making cheap, healthy food for cats and chickens.
 *   **Recipes:** "Stray Saver" Lugaw & "Market Mix" Chicken Feed
 *   **Language:** Bislish / Cebuano Mix
-*   **Live View:** [Safe Link to Guide](https://markkennethbadilla.github.io/public-guides/bisaya-pet-guide/bisaya_pet_guide.html)
+*   **Live View:** [Safe Link to Guide](https://elunari.uk/bisaya-pet-guide/bisaya_pet_guide.html)
 
 ---
 
