@@ -1,8 +1,8 @@
-# Public Guides 📚
+# public
 
-A collection of helpful guides and resources.
+Public projects, guides, tools, and resources.
 
-## Available Guides
+## What's here
 
 ### 🐾 [Barato Pet Feasts (Bisaya Pet Guide)](/bisaya-pet-guide/bisaya_pet_guide.html)
 A Cebuano/Bisaya noob-friendly guide to making cheap, healthy food for cats and chickens.
@@ -12,6 +12,6 @@ A Cebuano/Bisaya noob-friendly guide to making cheap, healthy food for cats and 
 
 ---
 
-## How to use this repo
-This repository is hosted on GitHub Pages. Each folder contains a self-contained guide with its own assets.
+## About
+This repository is hosted on GitHub Pages at [public.elunari.uk](https://public.elunari.uk). Each folder contains a self-contained project or guide with its own assets.
 < Trigger rebuild Wed 04 Feb 2026 03:22:09 PM PST -->
